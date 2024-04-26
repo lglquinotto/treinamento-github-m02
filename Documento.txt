@@ -1,7 +1,7 @@
 Documento de treino para o módiulo 02.
 
-Exemplo Código 1.
+exemplo código 01.
 
-Exemplo Código 2.
+exemplo código 02.
 
-Exemplo Código 3.
+exemplo código 03.
